@@ -1,0 +1,13 @@
+/home/franklin/residencia/Trilha_rep_aulas/dotnet_trilha/domain/bin/Debug/net8.0/domain.deps.json
+/home/franklin/residencia/Trilha_rep_aulas/dotnet_trilha/domain/bin/Debug/net8.0/domain.dll
+/home/franklin/residencia/Trilha_rep_aulas/dotnet_trilha/domain/bin/Debug/net8.0/domain.pdb
+/home/franklin/residencia/Trilha_rep_aulas/dotnet_trilha/domain/obj/Debug/net8.0/domain.csproj.AssemblyReference.cache
+/home/franklin/residencia/Trilha_rep_aulas/dotnet_trilha/domain/obj/Debug/net8.0/domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/franklin/residencia/Trilha_rep_aulas/dotnet_trilha/domain/obj/Debug/net8.0/domain.AssemblyInfoInputs.cache
+/home/franklin/residencia/Trilha_rep_aulas/dotnet_trilha/domain/obj/Debug/net8.0/domain.AssemblyInfo.cs
+/home/franklin/residencia/Trilha_rep_aulas/dotnet_trilha/domain/obj/Debug/net8.0/domain.csproj.CoreCompileInputs.cache
+/home/franklin/residencia/Trilha_rep_aulas/dotnet_trilha/domain/obj/Debug/net8.0/domain.sourcelink.json
+/home/franklin/residencia/Trilha_rep_aulas/dotnet_trilha/domain/obj/Debug/net8.0/domain.dll
+/home/franklin/residencia/Trilha_rep_aulas/dotnet_trilha/domain/obj/Debug/net8.0/refint/domain.dll
+/home/franklin/residencia/Trilha_rep_aulas/dotnet_trilha/domain/obj/Debug/net8.0/domain.pdb
+/home/franklin/residencia/Trilha_rep_aulas/dotnet_trilha/domain/obj/Debug/net8.0/ref/domain.dll
